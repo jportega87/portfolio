@@ -1,0 +1,45 @@
+*{
+  font-family: sans-serif;
+}
+
+#container{
+  background-color: black;
+  width: 500px;
+}
+
+h1{
+  color: darkgray;
+}
+
+p{
+  color: white;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+img{
+  height: 256px;
+  width: 256px;
+  margin: 0px 122px 0px 122px;
+  display: block;
+  text-align: center;
+}
+
+#links{
+  width: 500px;
+  text-align: center;
+}
+
+a{
+  padding: 10px 20px 10px 20px;
+  background: #d8e0de;
+  background: -moz-linear-gradient(top,  #d8e0de 0%, #0e0e0e 0%, #aebfbc 22%, #99afab 33%, #8ea6a2 55%, #829d98 67%, #4e5c5a 82%);
+  background: -webkit-linear-gradient(top,  #d8e0de 0%,#0e0e0e 0%,#aebfbc 22%,#99afab 33%,#8ea6a2 55%,#829d98 67%,#4e5c5a 82%);
+  background: linear-gradient(to bottom,  #d8e0de 0%,#0e0e0e 0%,#aebfbc 22%,#99afab 33%,#8ea6a2 55%,#829d98 67%,#4e5c5a 82%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d8e0de', endColorstr='#4e5c5a',GradientType=0 );
+  text-decoration: none;
+  color: white;
+  margin: 10px;
+  display: inline-block;
+  text-align: center;
+}
